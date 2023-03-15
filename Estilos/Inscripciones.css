@@ -1,0 +1,10 @@
+#titulo1{
+    display: inline-block;
+    width: 100%;
+    color: darkolivegreen;  
+    text-align: center;
+}
+.subtitulo{
+    display: inline-block;
+    width: 50%;
+    color: darkolivegreen;

@@ -1,0 +1,37 @@
+#titulo{
+    text-align: center;
+    font-family:monospace;
+    color: olive;
+    font-size: 170%
+}
+#titulo2{
+    text-align: center;
+    font-family:monospace;
+    color: olive;
+    font-size: 170%
+}
+#titulo3{
+    text-align: center;
+    font-family:monospace;
+    color: olive;
+    font-size: 170%
+}
+#parrafo1{
+    text-align:justify;
+}
+#parrafo2{
+    text-align: justify;
+}
+#img1{
+    float: left;
+}
+#img2{
+    float:right;
+    display: inline-block;
+    margin: 20px;
+    clear: both;
+}
+#pie{
+    text-align: left;
+    clear: both;
+}

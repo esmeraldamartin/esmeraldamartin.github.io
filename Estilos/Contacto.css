@@ -1,0 +1,40 @@
+#titulo1{
+    display: inline-block;
+    width: 100%;
+    color: darkolivegreen;  
+    text-align: center;
+}
+.subtitulo{
+    display: inline-block;
+    width: 50%;
+    color: darkolivegreen;
+}
+#img1{
+    padding: 10px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#img2{
+    padding: 10px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#img3{
+    padding: 10px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#img4{
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    height: 270px;
+    clear: both;
+    display: inline-block;
+}

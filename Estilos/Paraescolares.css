@@ -1,0 +1,81 @@
+#titulo1{
+    display: inline-block;
+    width: 100%;
+    color: darkolivegreen;  
+    text-align: center;
+}
+.subtitulo{
+    display: inline-block;
+    width: 50%;
+    color: darkolivegreen;
+}
+.parrafo{
+    text-align:justify;
+    font-size: 16px;
+}
+#marco{
+    width: 100%;
+    height: 600px;
+    padding: 8px;
+}
+#img1{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img2{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img3{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img4{
+    
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img5{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img6{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img7{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#img8{
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border-style: double;
+    border-color: darkkhaki;
+}
+#pie{
+    text-align: left;
+    clear: both;
+}
